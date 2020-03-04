@@ -1,6 +1,6 @@
 import React from 'react';
 import { browserHistory } from 'react-router';
-import { BootstrapTable, TableHeaderColumn } from 'react-bootstrap-table';
+importasdf { BootstrapTable, TableHeaderColumn } from 'react-bootstrap-table';
 import { Navbar, Nav, NavDropdown, MenuItem, NavItem, Modal, Button, Row, Col } from 'react-bootstrap';
 import { withBasename } from "../utils/params";
 
